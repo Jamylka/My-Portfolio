@@ -9,23 +9,23 @@
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
 body {
-  background-color: #5f5345;
+  background-color: #FFB6C1;
 }
  
 .pageContainer {
-  width: 940px;
-  margin: 20px auto 0 auto;
-  padding: 20px;
+  width: 850px;
+  margin: 15px auto 0 auto;
+  padding: 15px;
   background-color: #fff;
 }
  
 .imageContainer {
-  float: left;
+  float: center;
   width: 620px;
 }
  
 .textContainer {
-  float: left;
+  float: center;
   width: 300px;
   margin-left: 20px;
   margin-top: 20px;
@@ -36,8 +36,8 @@ img {
 }
  
 h1 {
-  font-family: 'Fredericka the Great', cursive;
-  font-size: 64px;
+  font-family: Helvetica, cursive;
+  font-size: 45px;
   color: #8b1b00;
 }
  
@@ -49,14 +49,3 @@ p, li {
 
 
 
-
-/* ---- Advanced ---- */
-/* This tag is a bit advanced for this lesson,  
-   but is needed to wrap the pageContainer 
-   around any sized content that is floated within it. */
-
-.pageContainer:after { 
-  content: " ";
-  display: table;
-  clear: both;
-}
