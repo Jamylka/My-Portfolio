@@ -15,6 +15,10 @@ body {
   float: center;
   width: 140px;
 }
+
+.element {
+    object-fit: fill || contain || cover || none || scale-down;
+}
  
 .textContainer {
   float: center;
