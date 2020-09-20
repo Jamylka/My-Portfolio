@@ -23,9 +23,10 @@ body {
   margin-top: 20px;
 }
 
-img {
-  width: 100%;
-}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
  
 h1 {
   font-family: Helvetica, cursive;
