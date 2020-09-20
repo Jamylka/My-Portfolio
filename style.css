@@ -19,7 +19,7 @@ body {
  
 .textContainer {
   float: center;
-  width: 150px;
+  width: 250px;
   margin-left: auto;
   margin-top: auto;
 }
@@ -27,19 +27,19 @@ body {
  
 h1 {
   font-family: Helvetica, cursive;
-  font-size:25px;
+  font-size:22px;
   color: #000000;
 }
 
 h2 {
   font-family: Helvetica, cursive;
-  font-size: 22px;
+  font-size: 18px;
   color: #000000;
 }
 
 h3 {
   font-family: Helvetica, cursive;
-  font-size: 20px;
+  font-size: 15px;
   color: #000000;
 }
 	
