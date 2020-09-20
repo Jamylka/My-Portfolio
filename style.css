@@ -40,6 +40,19 @@ h1 {
   font-size: 45px;
   color: #8b1b00;
 }
+
+h2 {
+  font-family: Helvetica, cursive;
+  font-size: 45px;
+  color: #8b1b00;
+}
+
+h3 {
+  font-family: Helvetica, cursive;
+  font-size: 45px;
+  color: #8b1b00;
+}
+	
  
 p, li {
   font-family: 'Lato', sans-serif;
