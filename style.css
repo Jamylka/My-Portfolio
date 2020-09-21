@@ -11,10 +11,10 @@ body {
 }
 
 /* Dashed red border */
- hr{
-        height: 1px;
-        background-color: #ccc;
-        border-top: 1px dashed pink;
+  hr {
+     height: 1px;
+     background-color: ##BD7995;
+      border-top: 5px dashed;
     }
 
 
