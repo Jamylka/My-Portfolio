@@ -82,6 +82,10 @@ p, li {
   text-align: center;
 }
 
+ li span {
+        margin-left: -11px;
+    }
+
 /* Contact */
 footer {
   float: center;
