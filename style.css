@@ -13,8 +13,8 @@ body {
 /* Dashed red border */
   hr {
      height: 1px;
-     background-color: ##BD7995;
-      border: 5px dashed;
+     background-color: #BD7995;
+      border: 1px dashed;
     }
 
 
