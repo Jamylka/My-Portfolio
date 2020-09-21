@@ -14,7 +14,7 @@ body {
   hr {
      height: 1px;
      background-color: ##BD7995;
-      border-top: 5px dashed;
+      border: 5px dashed;
     }
 
 
