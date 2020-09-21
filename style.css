@@ -1,7 +1,7 @@
 /* Link Colors */
-a:link    { color:  hsl(336, 36%, 61%);  }
+a:link    { color:  hsl(336, 45%, 52%);  }
 a:visited { color: hsl(0, 0%, 100%); }
-a:hover   { color: hsl(120, 100%, 15%); }
+a:hover   { color: hsl(336, 93%, 23%); }
 a:active  { color: hsl(0, 0%, 100%); }
  
 /* Main Page */
@@ -10,7 +10,7 @@ body {
   background-color: #D9B9C6;
 }
 
-/* Dashed red border */
+/* Dashed pink border */
   hr {
      height: 1px;
      background-color: #BD7995;
