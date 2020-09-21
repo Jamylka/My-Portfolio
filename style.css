@@ -16,9 +16,6 @@ header {
   float: center;
   width: 50px;
   height: 50px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 
@@ -88,7 +85,6 @@ footer {
  <style>
 
    header {
-      display: block;
       margin-left: 450px;
       margin-right: 450px;
 }
