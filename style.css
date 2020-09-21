@@ -10,11 +10,18 @@ body {
   background-color: #D9B9C6;
 }
 
+/* Dashed red border */
+ hr{
+        height: 1px;
+        background-color: #ccc;
+        border-top: 1px dashed pink;
+    }
+
 
 .header {
   font-family: URW Chancery L, cursive;
   padding: 20px;
-  width: 50px
+  width: 50px;
   text-align: center;
   background: #BD7995;
   font-size: 30px;
