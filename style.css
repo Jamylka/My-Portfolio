@@ -118,6 +118,6 @@ footer {
 	  nav {
       display: block;
       text-align: center;
-      margin-left: auto;
-      margin-right: auto;
+      margin-left: 500;
+      margin-right: 500;
 }
