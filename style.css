@@ -7,7 +7,7 @@ a:active  { color: hsl(0, 0%, 100%); }
 /* Main Page */
 
 body {
-  background-color: #05852D;
+  background-color: #D9B9C6;
 }
  
 /* Second Page */
@@ -23,7 +23,7 @@ header {
   width: 850px;
   margin: 15px auto 0 auto;
   padding: 15px;
-  background-color: #DAF7A6;
+  background-color: #D9B9C6;
 }
  
 .imageContainer {
