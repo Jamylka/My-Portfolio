@@ -11,12 +11,6 @@ body {
 }
 
 
-/* Large rounded pink border */
-hr.new5 {
-  border: 10px solid pink;
-  border-radius: 5px;
-}
-
 .header {
   font-family: URW Chancery L, cursive;
   padding: 20px;
