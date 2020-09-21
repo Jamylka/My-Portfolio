@@ -13,6 +13,7 @@ body {
 /* Second Page */
 
 .header {
+  font-family: URW Chancery L, cursive;
   padding: 60px;
   text-align: center;
   background: #BD7995;
@@ -36,7 +37,7 @@ body {
  
 .textContainer {
   float: middle;
-  width: 250px;
+  width: 500px;
   margin-left: auto;
   margin-top: auto;
 }
