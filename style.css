@@ -17,7 +17,6 @@ body {
   padding: 60px;
   text-align: center;
   background: #BD7995;
-  color: white;
   font-size: 30px;
 }
 
@@ -36,7 +35,7 @@ body {
 
  
 .textContainer {
-  float: middle;
+  float: center;
   width: 500px;
   margin-left: auto;
   margin-top: auto;
