@@ -42,7 +42,7 @@ body {
  
 .textContainer {
   float: center;
-  width: 500px;
+  width: 700px;
   margin-left: auto;
   margin-top: auto;
 }
@@ -93,8 +93,8 @@ footer {
 
    	 img {
   display: block;
-  margin-left: 250px;
-  margin-right: 250px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
    	 .textContainer {
       display: block;
