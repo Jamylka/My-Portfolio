@@ -82,7 +82,13 @@ footer {
 }
 
 /* Styling */
- <style>	      
+ <style>
+
+   header {
+    display: block;
+    margin-left: 450px;
+    margin-right: 450px;
+}
 	            
     img {
   display: block;
