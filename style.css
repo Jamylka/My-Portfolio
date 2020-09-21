@@ -1,8 +1,8 @@
 /* Link Colors */
-a:link    { color:  hsl(0, 0%, 100%);  }
-a:visited { color: hsl(120, 100%, 5%); }
-a:hover   { color: hsl(0, 0%, 100%); }
-a:active  { color: hsl(120, 100%, 15%); }
+a:link    { color:  hsl(120, 100%, 5%);  }
+a:visited { color: hsl(0, 0%, 100%); }
+a:hover   { color: hsl(120, 100%, 15%); }
+a:active  { color: hsl(0, 0%, 100%); }
  
 /* Main Page */
 
