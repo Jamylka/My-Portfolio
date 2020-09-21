@@ -82,6 +82,11 @@ p, li {
   text-align: center;
 }
 
+/* Bulletin Spacing */
+ span {
+        position: relative;
+        left: -12px;
+}
 
 /* Contact */
 footer {
