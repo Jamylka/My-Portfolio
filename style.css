@@ -1,4 +1,9 @@
-
+/* Link Colors */
+a:link    { color:  hsl(49, 90%, 37%);  }
+a:visited { color: hsl(120, 100%, 5%); }
+a:hover   { color: hsl(49, 90%, 37%); }
+a:active  { color: hsl(120, 100%, 15%); }
+ 
 
 body {
   background-color: #C46210;
