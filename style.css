@@ -11,20 +11,12 @@ body {
 }
 
 /* Dashed pink border */
- /* hr {
+ hr {
      height: 1px;
      background-color: #BD7995;
       border: 1px dashed;
-    } */
+    } 
 
-hr {
-        width: 420px;
-	height: 32px;
-	border: none;
-        margin-top: 30px;
-        margin-bottom: 20px;
-	background-image: url("images/dotted-divider-line-png-image-51575265440pwemkmy19b.png");
-}
 
 .header {
   font-family: Andale Mono, monospace;
