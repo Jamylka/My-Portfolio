@@ -83,11 +83,9 @@ p, li {
 }
 
 /* Bulletin Spacing */
-ul.a li span {
-	position:relative;
-	left:-0.5em;
 
-}
+
+
 /* Contact */
 footer {
   float: center;
