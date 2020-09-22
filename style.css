@@ -42,7 +42,7 @@ body {
  
 .textContainer {
   float: center;
-  width: 700px;
+  width: auto;
   margin-left: auto;
   margin-top: auto;
 }
