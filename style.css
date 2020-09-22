@@ -83,15 +83,10 @@ p, li {
 }
 
 /* Bulletin Spacing */
-ul {
-    list-style-type: none;
-}
+ul.a li span {
+	position:relative;
+	left:-0.5em;
 
-li {
-    background-image: url(bullet.jpg);
-    background-repeat: no-repeat;
-    background-position: 0px 50%;
-    padding-left: 7px;
 }
 /* Contact */
 footer {
