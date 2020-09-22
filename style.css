@@ -83,10 +83,16 @@ p, li {
 }
 
 /* Bulletin Spacing */
-    li {
-	text-indent: -11px;
+ul {
+    list-style-type: none;
 }
 
+li {
+    background-image: url(bullet.jpg);
+    background-repeat: no-repeat;
+    background-position: 0px 50%;
+    padding-left: 7px;
+}
 /* Contact */
 footer {
   float: center;
