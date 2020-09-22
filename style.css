@@ -11,12 +11,20 @@ body {
 }
 
 /* Dashed pink border */
-  hr {
+ /* hr {
      height: 1px;
      background-color: #BD7995;
       border: 1px dashed;
-    }
+    } */
 
+hr {
+        width: 420px;
+	height: 32px;
+	border: none;
+        margin-top: 30px;
+        margin-bottom: 20px;
+	background-image: url("images/8ee1ea6424182bedde6dace0ed0934bf-line-floral-ornate-divider-3-by-vexels.png");
+}
 
 .header {
   font-family: Andale Mono, monospace;
