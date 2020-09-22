@@ -48,6 +48,10 @@ body {
 }
 
 /* Welcome! */
+
+div {
+   text-align: center;
+}
  
 h1 {
   font-family: Helvetica, cursive;
